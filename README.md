@@ -6,3 +6,4 @@ then we analyze the HTTP packets and we are able to see the login details in rea
 we aslo discovered that every conversation on the HTTP network is open and accessable to attackers/threat actors.
 so we advise that no one should use http to set up their connection and internet users should also not login to any HTTP web page, it is highly risky and can result in credential theft and personal infomation can be stoling.
 so as we can see that the HTTP is not safe for user, we are recommending HTTPS, as a better option and SSL/TLS as a secure and safer protocal on website.
+"C:\Users\senex\OneDrive\Documents\GROUP 5 PRATICAL RESULT.pcapng"
