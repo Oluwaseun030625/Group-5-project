@@ -1,5 +1,5 @@
 # Group 5 project
-This is the of cyber security cohort 2 student at Data frote academy
+This is the project of cyber security cohort 2 student at Data frote academy
 [text](<../../GROUP 5 PRATICAL RESULT.pcapng>)
 we have been able to analyze ans capture credential on a HTTP connection using wireshark to track conversation on the web browser, then we isolate the HTTP packets using the filter.
 then we analyze the HTTP packets and we are able to see the login details in readable plain test because it is weak and unsecure.
